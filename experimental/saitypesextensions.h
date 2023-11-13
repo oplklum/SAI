@@ -70,6 +70,16 @@ typedef enum _sai_object_type_extensions_t
 
     SAI_OBJECT_TYPE_VIP_ENTRY,
 
+    SAI_OBJECT_TYPE_OTAI_ATTENUATOR,
+
+    SAI_OBJECT_TYPE_OTAI_OA,
+
+    SAI_OBJECT_TYPE_OTAI_OCM,
+
+    SAI_OBJECT_TYPE_OTAI_OSC,
+
+    SAI_OBJECT_TYPE_OTAI_OTDR,
+
     /* Add new experimental object types above this line */
 
     SAI_OBJECT_TYPE_EXTENSIONS_RANGE_END
